@@ -6,4 +6,4 @@ You can learn more about OSSU here: https://github.com/open-source-society
 
 <a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 
-Update: November 2017 - At this time, I've completed several courses with an overall GPA of 97.  The OSSU course list has changed since I began which has cuased a few scheduling problems.  Due to this, and also issues with course availability, I am no longer following the OSSU strictly but instead using it as a suggested list.  I am currently enrolled in LAFF: Linear Algebra vie EdX and working on a game app using OOP Java.  
+Update: November 2017 - At this time, I've completed several courses with an overall GPA of 97.  The OSSU course list has changed since I began which has caused a few scheduling problems.  Due to this, and also issues with course availability, I am no longer following the OSSU strictly but instead using it as a suggested list.  I am currently enrolled in LAFF: Linear Algebra vie EdX and working on a game app using OOP Java.  
