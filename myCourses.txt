@@ -8,7 +8,7 @@ How to Code: Systematic Program Design, University of British Columbia, March 20
 Absolute Introduction to Object Oriented Programming, Udemy, July 2017
 CS50, Harvard, July 2017
     - View my Final Project Video @ https://www.youtube.com/watch?v=AjahwHN-XJw&feature=youtu.be
-    - Final Project Repository @ https://github.com/winterfive/finalProject
+    - Final Project Repository @ https://github.com/winterfive/final-project
 Java, SoloLearn, July 2017
 Build a Modern Computer from First Principles, Hebrew University of Jerusalem, Sept. 2017
 Master Object Oriented Design in Java, Udemy, Sept. 2017
