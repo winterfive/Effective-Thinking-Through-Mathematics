@@ -1,7 +1,7 @@
 
-## CS Course List
+--- CS Course List ---
 
-# COMPLETED:
+COMPLETED:
 - Python for Data Science, Microsoft, Nov. 2016
 - Effective Thinking through Mathematics, University of Texas at Austin, Nov. 2016
 - How to Code: Systematic Program Design, University of British Columbia, March 2017
@@ -14,8 +14,7 @@
 - Master Object Oriented Design in Java, Udemy, Sept. 2017
 - Object Oriented Programming in Java, Microsoft, Oct. 2017
 
-# IN PROGRESS:
+IN PROGRESS:
 - Working through Head First Design Patterns
 - Daily Hackerrank warm up challenges
 - Open Source PRs and personal projects
-
